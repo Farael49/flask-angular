@@ -13,9 +13,9 @@
   },
   "homepage": "https://github.com/Farael49/flask-rest-crud#readme",
   "dependencies": {
-    "angular": "1.5.7",
+    "angular": "1.8.2",
     "angular-chosen": "^1.0.8",
-    "angular-route": "1.5.7",
+    "angular-route": "1.8.2",
     "angular-translate": "^2.11.1",
     "angular-ui-router": "0.2.14",
     "angularjs-toaster": "^2.0.0",
