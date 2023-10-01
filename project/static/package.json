@@ -23,7 +23,7 @@
     "font-awesome": "4.6.3",
     "gulp": "3.8.10",
     "gulp-angular-templatecache": "^1.5.0",
-    "gulp-autoprefixer": "0.0.7",
+    "gulp-autoprefixer": "1.0.0",
     "gulp-browserify": "0.5.0",
     "gulp-clean": "0.2.4",
     "gulp-compass": "1.1.8",
