@@ -19,7 +19,7 @@
     "angular-translate": "^2.11.1",
     "angular-ui-router": "0.2.14",
     "angularjs-toaster": "^2.0.0",
-    "browser-sync": "^2.4.0",
+    "browser-sync": "^3.0.0",
     "font-awesome": "4.6.3",
     "gulp": "3.8.10",
     "gulp-angular-templatecache": "^1.5.0",
